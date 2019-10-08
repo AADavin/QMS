@@ -1,6 +1,8 @@
 # QMS
 Quick Marker Selection for Species Trees
 
+# This is not ready to use yet
+
 You need to install:
 ete3
 pandas
